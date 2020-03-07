@@ -12,9 +12,9 @@ Download XAMPP or WAMPP to setup your localhost environment
 
 ### Installing
 
-Put the code in your root directory
-
-Run the web server
+- Put the code in your root directory
+- Run the web server
+- Access via http://localhost/lms/
 
 ## Running the application
 
